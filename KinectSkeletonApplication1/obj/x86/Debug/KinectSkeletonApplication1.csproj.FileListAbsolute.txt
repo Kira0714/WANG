@@ -1,0 +1,14 @@
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\KinectSkeletonApplication1.exe
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\KinectSkeletonApplication1.pdb
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1_MarkupCompile.cache
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.g.resources
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.Properties.Resources.resources
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.csproj.GenerateResource.Cache
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.exe
+c:\users\kira\documents\visual studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.pdb
+C:\Users\Kira\Documents\Visual Studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kira\Documents\Visual Studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Kira\Documents\Visual Studio 2012\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb

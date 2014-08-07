@@ -1,0 +1,103 @@
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectSensorChooser.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectSensorChooser.baml
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.baml
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\GenerateResource.read.1.tlog
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\GenerateResource.write.1.tlog
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Program Files\Microsoft SDKs\Kinect\v1.0\Samples\C#\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSensorChooser.g.cs
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.g.cs
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSensorChooser.baml
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.baml
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Calvin\Desktop\Kinect Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSensorChooser.g.cs
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.g.cs
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSensorChooser.baml
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.baml
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Calvin\Desktop\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csprojResolveAssemblyReference.cache
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSettings.baml
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSensorChooser.g.cs
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.g.cs
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSensorChooser.baml
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectAudioViewer.baml
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDepthViewer.baml
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectColorViewer.baml
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.baml
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.baml
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.g.resources
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.Properties.Resources.resources
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.csproj.GenerateResource.Cache
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Kira\Downloads\KinectWpfViewers_Demo\KinectWpfViewers_Demo\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb

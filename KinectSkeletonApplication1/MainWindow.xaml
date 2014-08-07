@@ -1,0 +1,68 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:WpfViewers="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" x:Class="KinectSkeletonApplication1.MainWindow"
+        Title="MainWindow" Height="800" Width="1600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Image x:Name="videoImage" Margin="43,69,749,100" Width="800" Height="600"/>
+        <Canvas Background="Transparent" Margin="0,69,792,100" HorizontalAlignment="Right" Width="800" Height="600">
+            <WpfViewers:KinectSkeletonViewer x:Name="kinectSkeletonViewer1" Height="600" Width="800" Kinect="{Binding Kinect, ElementName=kinectSensorChooser1}" Canvas.Left="39"/>
+            <Ellipse Fill="Red" Height="20" Width="20" x:Name="ellipseLeftHand" Stroke="White" Canvas.Left="309" Canvas.Top="305" />
+            <Ellipse Fill="Red" Height="20" Width="20" x:Name="ellipseRightHand" Stroke="White" Canvas.Left="552" Canvas.Top="310" />
+            <Ellipse Fill="Red" Height="20" Width="20" x:Name="ellipsehead" Stroke="White" Canvas.Left="412" Canvas.Top="166" />
+            <Ellipse x:Name="ellipseLeftFoot" Fill="Red" Height="20" Canvas.Left="387" Stroke="White" Canvas.Top="479" Width="20"/>
+            <Ellipse x:Name="ellipseRightFoot" Fill="Red" Height="20" Canvas.Left="502" Stroke="White" Canvas.Top="479" Width="20"/>
+            <Label Content="L__Hand__X" Canvas.Left="857" Canvas.Top="310" Width="65" Height="25"/>
+            <Ellipse Fill="Red" Height="20" Width="20" x:Name="ellipseRightShoulder" Stroke="White" Canvas.Left="478" Canvas.Top="264" />
+            <Ellipse Fill="Red" Height="20" Width="20" x:Name="ellipseLeftShoulder" Stroke="White" Canvas.Left="387" Canvas.Top="264" />
+        </Canvas>
+        <Button x:Name="up" Content="往上" HorizontalAlignment="Left" Margin="866,141,0,0" VerticalAlignment="Top" Width="75" Click="up_Click" Height="19"/>
+        <Button x:Name="bzero" Content="歸零" HorizontalAlignment="Left" Margin="976,141,0,0" VerticalAlignment="Top" Width="75" Click="bzero_Click" Height="19"/>
+        <Button x:Name="down" Content="往下" HorizontalAlignment="Left" Margin="1086,141,0,0" VerticalAlignment="Top" Width="75" Click="down_Click" Height="19"/>
+        <TextBox x:Name="Gesture_test" HorizontalAlignment="Left" Height="23" Margin="1007,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="手勢動作" HorizontalAlignment="Left" Margin="934,192,0,0" VerticalAlignment="Top" Height="25" Width="58"/>
+        <TextBox x:Name="AngleTxt" TextWrapping="Wrap" Text="目前角度:" Margin="953,69,519,677"/>
+        <TextBox x:Name="L__Hand__X" HorizontalAlignment="Left" Height="23" Margin="934,384,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="L__Hand__Y" HorizontalAlignment="Left" Height="23" Margin="934,423,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="L__Hand__Y" HorizontalAlignment="Left" Margin="859,423,0,0" VerticalAlignment="Top" Width="65" Height="25"/>
+        <TextBox x:Name="R__Hand__X" HorizontalAlignment="Left" Height="23" Margin="1201,383,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="R__Hand__Y" HorizontalAlignment="Left" Height="23" Margin="1201,423,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="R__Hand__X" HorizontalAlignment="Left" Margin="1114,384,0,0" VerticalAlignment="Top" Width="70" Height="25"/>
+        <Label Content="R__Hand__Y" HorizontalAlignment="Left" Margin="1114,421,0,0" VerticalAlignment="Top" Width="70" Height="25"/>
+        <TextBox x:Name="L__Foot__X" HorizontalAlignment="Left" Height="23" Margin="934,533,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="L__Foot__Y" HorizontalAlignment="Left" Height="23" Margin="934,583,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="L__Foot__X" HorizontalAlignment="Left" Margin="859,533,0,0" VerticalAlignment="Top"/>
+        <Label Content="L__Foot__Y" HorizontalAlignment="Left" Margin="859,581,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="R__Foot__X" HorizontalAlignment="Left" Height="23" Margin="1201,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="R__Foot__Y" HorizontalAlignment="Left" Height="23" Margin="1201,576,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="R__Foot__X" HorizontalAlignment="Left" Margin="1114,526,0,0" VerticalAlignment="Top"/>
+        <Label Content="R__Foot__Y" HorizontalAlignment="Left" Margin="1114,574,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Head__X" HorizontalAlignment="Left" Height="23" Margin="1097,293,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Head__X" HorizontalAlignment="Left" Margin="1033,291,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Head__Y" HorizontalAlignment="Left" Height="23" Margin="1097,334,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Head__Y" HorizontalAlignment="Left" Margin="1033,334,0,0" VerticalAlignment="Top"/>
+        <WpfViewers:KinectSkeleton HorizontalAlignment="Left" Height="100" Margin="841,23,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="L__Shoulder__X" HorizontalAlignment="Left" Height="23" Margin="934,459,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="R__Shoulder__X" HorizontalAlignment="Left" Height="23" Margin="1201,461,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="L__Shoulder__X" HorizontalAlignment="Left" Margin="843,457,0,0" VerticalAlignment="Top"/>
+        <Label Content="R__Shoulder__X" HorizontalAlignment="Left" Margin="1097,459,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="L__Shoulder__Y" HorizontalAlignment="Left" Height="23" Margin="934,493,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="L__Shoulder__Y" HorizontalAlignment="Left" Margin="848,491,0,0" VerticalAlignment="Top"/>
+        <Label Content="R__Shoulder__Y" HorizontalAlignment="Left" Margin="1097,493,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="R__Shoulder__Y" HorizontalAlignment="Left" Height="23" Margin="1201,495,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="右手舉起角度" HorizontalAlignment="Left" Margin="1358,379,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="R_Hand_Angle" HorizontalAlignment="Left" Height="23" Margin="1462,384,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="左手舉起角度" HorizontalAlignment="Left" Margin="1358,423,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="L_Hand_Angle" HorizontalAlignment="Left" Height="23" Margin="1462,421,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Zigbee_go" Content="確認" HorizontalAlignment="Left" Margin="1447,195,0,0" VerticalAlignment="Top" Width="75" Click="Zigbee_go_Click"/>
+        <ComboBox x:Name="Zigbee" HorizontalAlignment="Left" Margin="1289,192,0,0" VerticalAlignment="Top" Width="120"/>
+        <WpfViewers:KinectSensorChooser x:Name="kinectSensorChooser1" HorizontalAlignment="Left" Margin="1254,0,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
